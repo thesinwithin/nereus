@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 # Certificate uploador for PaloAlto Networks firewalls
+# (c) 2021 by thesinwithin
 
 from xml.etree import cElementTree as ElementTree
 from cryptography.hazmat.primitives import serialization
