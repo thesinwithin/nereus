@@ -6,4 +6,4 @@ idna==3.10
 pycparser==2.22
 PyYAML==6.0.2
 requests==2.32.3
-urllib3==2.2.3
+urllib3==2.3.0
