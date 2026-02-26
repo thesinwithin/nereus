@@ -1,4 +1,4 @@
-certifi==2025.1.31
+certifi==2026.1.4
 idna==3.11
 charset-normalizer==3.4.4
 cffi==2.0.0
