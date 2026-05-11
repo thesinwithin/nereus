@@ -5,5 +5,5 @@ cffi==2.0.0
 cryptography==46.0.7
 pycparser==3.0
 requests==2.33.0
-urllib3==2.6.3
+urllib3==2.7.0
 PyYAML==6.0.3
