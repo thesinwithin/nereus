@@ -1,9 +1,9 @@
 certifi==2026.4.22
-idna==3.11
+idna==3.13
 charset-normalizer==3.4.7
 cffi==2.0.0
-cryptography==46.0.7
+cryptography==48.0.0
 pycparser==3.0
-requests==2.33.0
+requests==2.33.1
 urllib3==2.6.3
 PyYAML==6.0.3
