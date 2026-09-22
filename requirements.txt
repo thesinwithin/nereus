@@ -4,6 +4,6 @@ charset-normalizer==3.4.7
 cffi==2.0.0
 cryptography==46.0.7
 pycparser==3.0
-requests==2.33.0
+requests==2.33.1
 urllib3==2.6.3
 PyYAML==6.0.3
